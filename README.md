@@ -1,4 +1,4 @@
-<h1>Exercício com Spring Data JPA na para o desenvolvimento do BackEnd do domínio de uma Academia </h1>
+<h1>Exercício com Spring Data JPA para o desenvolvimento do BackEnd do domínio de uma Academia </h1>
 <p> Definição de 3 entidades principais: Aluno, Avaliação Física e Matrícula.</p>
 
 <h2>Objetivo do Projeto</h2>
